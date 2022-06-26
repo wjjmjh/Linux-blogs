@@ -1,1 +1,1 @@
-# All about Linux kernel, starts from fist Assembly line :)
+# All about Linux kernel, starts from first Assembly line :)
